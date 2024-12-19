@@ -24,6 +24,6 @@ int main() {
   int-- for whole numbers
   double(float)-- for decimal numbers
   char-- for using single charecters like a students grade{a,b,c,d,..}
-  boolean- TRUE or FALSE
+  boolean-- TRUE or FALSE
   string(sequence of objects that represnt of text)-- std::string name = "Kavan";
  */
