@@ -1,6 +1,7 @@
 #include <iostream>
 
 //UNDERSTANDING CONST
+/*
 int main(){
   //constant is something that cannot be changed
 
@@ -14,7 +15,7 @@ int main(){
 
   return 0;
 }
-
+*/
 
 //Learning about namespaces
 namespace first {
